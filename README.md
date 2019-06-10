@@ -1,8 +1,8 @@
 # SistemaDeEventos
 
-## Informacion general
+# Informacion general
 
-###  Integrantes
+##  Integrantes
 #### Sebastian Moncada
 #### Diego Vera
 #### Fabian Huenchunir
