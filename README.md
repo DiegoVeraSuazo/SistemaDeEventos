@@ -1,5 +1,9 @@
 # SistemaDeEventos
 
-### Subtitulos 
+## Informacion general
 
-adsadasdasdasdasdsadasdas
+###  Integrantes
+#### Sebastian Moncada
+#### Diego Vera
+#### Fabian Huenchunir
+ 
