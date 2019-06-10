@@ -1,9 +1,10 @@
-# SistemaDeEventos
-
-##  Integrantes
-                Sebastian Moncada
-                Diego Vera
-                Fabian Huenchunir
+SistemaDeEventos
+================
+Integrantes:
+===========    
+           Sebastian Moncada
+           Diego Vera
+           Fabian Huenchunir
 # Informacion general
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu lacus erat. Ut tincidunt risus orci, sed pellentesque risus gravida at. Maecenas turpis nibh, aliquet eu faucibus elementum, gravida tincidunt tortor. Proin sem lacus, blandit sed rutrum sed, iaculis vitae eros. Pellentesque ligula nibh, lacinia molestie neque sit amet, rhoncus ultrices nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus imperdiet nunc sem, et malesuada metus elementum vel. Praesent nec venenatis dolor. Proin ornare magna vel condimentum faucibus. Maecenas efficitur, nisi a pharetra interdum, nibh dolor elementum erat, in tempus nunc sapien non libero. Nullam et maximus purus. Nam dignissim condimentum est.
 
