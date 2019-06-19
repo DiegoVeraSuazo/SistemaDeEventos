@@ -6,6 +6,14 @@ Integrantes:
            Diego Vera
            Fabian Huenchunir
 # Informacion general
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu lacus erat. Ut tincidunt risus orci, sed pellentesque risus gravida at. Maecenas turpis nibh, aliquet eu faucibus elementum, gravida tincidunt tortor. Proin sem lacus, blandit sed rutrum sed, iaculis vitae eros. Pellentesque ligula nibh, lacinia molestie neque sit amet, rhoncus ultrices nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus imperdiet nunc sem, et malesuada metus elementum vel. Praesent nec venenatis dolor. Proin ornare magna vel condimentum faucibus. Maecenas efficitur, nisi a pharetra interdum, nibh dolor elementum erat, in tempus nunc sapien non libero. Nullam et maximus purus. Nam dignissim condimentum est.
+El proyecto a trabajar es un Sistema para administracion de eventos, el cual cumplira con las herramientas para contar la entrada de personas (opcion para el conteo de entradas pagadas), administracion entre los empleadores del "servicio", etc.
+
+## Semana 10 de Junio:
+Inicio de Documentacion en GitHub, centradose en la exploracion de la funciones que ofrece el servicio, como serian Pull request, fork, las branch, etc.
+
+
+### Semana 17 de Junio:
+
+Creacion de una pagina Typo3 para el uso compartido entre los integrantes del equipo, siendo esta Dejada en un plano inicial a como se estaria planeado actualmente.
 
 Etiam magna nulla, convallis ut risus sit amet, dapibus aliquam enim. Nunc tincidunt quis nisl in condimentum. Quisque pharetra dolor nec lorem tincidunt, sed pharetra turpis lacinia. Sed scelerisque tristique enim. In posuere mattis neque quis egestas. Suspendisse viverra dui eget orci commodo interdum sed sed justo. Vestibulum semper mi erat, vel dictum mauris condimentum vitae. Sed leo ex, convallis in risus quis, aliquam pellentesque sem. Quisque semper neque sed eleifend aliquam. Pellentesque eu sapien viverra, euismod ligula id, sodales ante. Phasellus pellentesque orci ut libero euismod, ac accumsan sem facilisis. Phasellus sed tempor quam, quis pretium tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla at hendrerit magna, quis gravida orci. Donec fermentum justo arcu, quis placerat justo rutrum et.
