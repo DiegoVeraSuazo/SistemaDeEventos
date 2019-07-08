@@ -4,7 +4,8 @@ Integrantes:
 ===========    
            Sebastian Moncada
            Diego Vera
-           Fabian Huenchunir
+           
+           
 # Informacion general
 El proyecto a trabajar es un Sistema para administracion de eventos, el cual cumplira con las herramientas para contar la entrada de personas (opcion para el conteo de entradas pagadas), administracion entre los empleadores del "servicio", etc.
 
@@ -18,5 +19,14 @@ Creacion de una pagina Typo3 para el uso compartido entre los integrantes del eq
 ### Semana 24 de Junio :
 Creacion de diseño base de la pagina y el desarrollo del plugin del extension builder
 
+### Semana 1 de Julio :
+Terminacion de plugin de extencion builder y finalizacion de paginas staff y inicio
 
-Etiam magna nulla, convallis ut risus sit amet, dapibus aliquam enim. Nunc tincidunt quis nisl in condimentum. Quisque pharetra dolor nec lorem tincidunt, sed pharetra turpis lacinia. Sed scelerisque tristique enim. In posuere mattis neque quis egestas. Suspendisse viverra dui eget orci commodo interdum sed sed justo. Vestibulum semper mi erat, vel dictum mauris condimentum vitae. Sed leo ex, convallis in risus quis, aliquam pellentesque sem. Quisque semper neque sed eleifend aliquam. Pellentesque eu sapien viverra, euismod ligula id, sodales ante. Phasellus pellentesque orci ut libero euismod, ac accumsan sem facilisis. Phasellus sed tempor quam, quis pretium tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla at hendrerit magna, quis gravida orci. Donec fermentum justo arcu, quis placerat justo rutrum et.
+### Semana 4 de Julio : 
+Comienzo de personalizacion de pagina estadisticas
+
+### Semana 6 de Julio:
+Finalizacion de paginas
+
+### Semana 7 de Julio:
+Implementacion de plugins (Google maps, ect)
