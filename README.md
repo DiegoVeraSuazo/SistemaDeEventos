@@ -29,4 +29,4 @@ Comienzo de personalizacion de pagina estadisticas
 Finalizacion de paginas
 
 ### Semana 7 de Julio:
-Implementacion de plugins (Google maps, ect)
+Implementacion de plugins (Google maps, etc)
