@@ -2,7 +2,6 @@ SistemaDeEventos
 ================
 Integrantes:
 ===========    
-           Sebastian Moncada
            Diego Vera
            
            
